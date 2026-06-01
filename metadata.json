@@ -1,0 +1,6 @@
+{
+  "name": "Logiacex S.A.S. - Gestión de Citas",
+  "description": "Sistema web completo de gestión de citas y conversión de clientes potenciales con interfaz de Glassmorphism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
